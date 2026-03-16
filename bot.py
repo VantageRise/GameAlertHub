@@ -6,7 +6,7 @@ from flask import Flask
 import threading
 
 # ===== CONFIGURATION - CHANGE THIS =====
-BOT_TOKEN = "PASTE_YOUR_TOKEN_HERE"  # <--- CHANGE THIS!
+BOT_TOKEN = "8518702178:AAG1P6k9bfwmV-wL3HG2rEulx9FfA0x6QzA"  # <--- CHANGE THIS!
 # =======================================
 
 CHANNEL = "@online_cazino_big"
